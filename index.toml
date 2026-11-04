@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "79de372a05dde6ee4f23ced936835dbd9d43b64ba61ae1990cb0e59dce460e6a"
+metafile = true
+
+[[files]]
+file = "mods/mind-palace-0.1.0.jar"
+hash = "c00fe5afd23cebe64a9dc8197ae5c92d0bd8d4727b321befcf8d558a8d6bffcb"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
+metafile = true

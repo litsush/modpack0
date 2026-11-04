@@ -1,0 +1,5 @@
+# Not part of the pack itself — the Prism instance template friends import.
+prism-instance/
+dist/
+README.md
+*.sh
