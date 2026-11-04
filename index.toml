@@ -6,6 +6,10 @@ hash = "79de372a05dde6ee4f23ced936835dbd9d43b64ba61ae1990cb0e59dce460e6a"
 metafile = true
 
 [[files]]
+file = "mods/flightbrake-1.0.0.jar"
+hash = "6c10a262ad5ce5d8e588a124214c4c10fc59717fa9dd9950aafbbfa878f5c99e"
+
+[[files]]
 file = "mods/mind-palace-0.1.0.jar"
 hash = "c00fe5afd23cebe64a9dc8197ae5c92d0bd8d4727b321befcf8d558a8d6bffcb"
 

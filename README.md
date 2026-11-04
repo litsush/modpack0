@@ -1,6 +1,6 @@
 # Mind Palace modpack
 
-Minecraft 26.3 + Fabric, with Mind Palace (Locus blocks that open Obsidian notes), Fabric API, and Sodium.
+Minecraft 26.3 + Fabric, with Mind Palace (Locus blocks that open Obsidian notes), Flight Brake (creative flight stops when you let go of the movement keys), Fabric API, and Sodium.
 Mods auto-update every time you hit Play.
 
 ## Install (Prism Launcher)
