@@ -10,8 +10,8 @@ file = "mods/flightbrake-1.0.0.jar"
 hash = "6c10a262ad5ce5d8e588a124214c4c10fc59717fa9dd9950aafbbfa878f5c99e"
 
 [[files]]
-file = "mods/mind-palace-0.5.0.jar"
-hash = "1e218dad1ea8f32a9ed5bc2e8e091911e48361c93cbfea2db6c3aab1e31f3489"
+file = "mods/mind-palace-0.5.1.jar"
+hash = "481d83b9945f1057a5daba73d65ed297035fe853a6a4ef14f9c7c0a75a431d96"
 
 [[files]]
 file = "mods/sodium.pw.toml"
